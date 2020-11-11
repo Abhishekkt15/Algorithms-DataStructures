@@ -1,4 +1,4 @@
-/*  This file contains all the function definations 
+/*  THIS FILE CONTAINS ALL THE FUNCTION DEFINATIONS
    
     Author: ABHISHEK K T
     Reg no: 201051007
