@@ -1,3 +1,10 @@
+/*  THIS FILE CONTAINS ALL THE FUNCTION DEFINATIONS
+   
+    Author: ABHISHEK K T
+    Reg no: 201051007
+    Department: ME Machine Learning
+*/
+
 #include<stdlib.h>
 #include<stddef.h>
 #include<assert.h>
