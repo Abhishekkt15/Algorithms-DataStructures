@@ -28,4 +28,5 @@ Slist* slist_add_head(Slist *list,int32_t element);
 Slist* slist_delete_tail(Slist *list);
 Slist* slist_delete_head(Slist *list);
 Slist* slist_display(Slist *list);
-#endif // SLIST_H_INCLUDED
+
+#endif
