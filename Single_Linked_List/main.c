@@ -1,5 +1,5 @@
   
-/* This code is implementing all the basic operations that can be done on a single linked list
+/* THIS CODE IS IMPLEMENTING ALL THE BASIC OPERATIONS THAT CAN BE DONE ON A SINGLE LINKED LIST
   
     Author: ABHISHEK K T
     Reg no: 201051007
