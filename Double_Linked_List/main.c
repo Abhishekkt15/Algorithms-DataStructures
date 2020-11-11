@@ -1,3 +1,12 @@
+/* This code is implementing all the basic operations that can be done on double linked list
+  
+    Author: ABHISHEK K T
+    Reg no: 201051007
+    Department: ME MACHINE LEARNING
+    
+    THIS IS AN ASSERT BASED CODE 
+*/
+
 #include <assert.h>
 #include "dlist.h"
 
