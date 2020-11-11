@@ -6,6 +6,7 @@ int main()
 {
 	Slist s = slist_new();
 	Slist *list = &s;
+	
 /*1.Create a single list with methods to add and delete elements from head and tail positions.
 Provide method to check whether an element is present in the list. Count number of elements in
 the list.*/
@@ -48,6 +49,7 @@ the list.*/
 	assert (slist_length(list) == 2);
 
 //5.Write a method to reverse the elements in the same list.
+	
 	list = reverse_list(list);
 
 /*6.Create two separate single lists. Check two list are same. If the two lists have the same number
