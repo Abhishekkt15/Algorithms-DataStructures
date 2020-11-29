@@ -31,7 +31,7 @@ int balancing_symbols(char c[10])
 		if(c[i] == '[' || c[i] == '(' || c[i] == '{')
 		{
 			stk = stack_push(stk,c[i],&res);
-			continue;
+			continue; 
 		}
 		else if(c[i] == ']' && stk->data[stk->top]=='[')
 		{
