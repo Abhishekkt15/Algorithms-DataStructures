@@ -99,7 +99,6 @@ int postfix(char p[20])
                 c = (b-'0')/(a-'0');
             }
             //char buffer[2];
-            //itoa(c,buffer,10);
             //char pf = c+'0';
            //printf("%c",buffer[1]);
 
