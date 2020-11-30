@@ -123,7 +123,7 @@ int main()
 	char c[10] = "}((]";
 	char c1[20] = "[({})]";
   
-  balancing_symbols(c);
+  	balancing_symbols(c);
 	balancing_symbols(c1);
 
 	//2.Evaluate postfix expression using stack.
