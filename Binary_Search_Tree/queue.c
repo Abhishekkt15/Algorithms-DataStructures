@@ -7,7 +7,7 @@
 Queue queue_new(uint32_t size)
 {
     size = (size>0 && size<MAX_DEPTH)?size:MAX_DEPTH;
-    Queue q = {size,0,0,0,{}};
+    Queue q = {size,0,0,0,{}}; 
     return q;
 }
 
