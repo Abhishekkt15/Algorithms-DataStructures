@@ -31,7 +31,7 @@ while(cur!=NULL && cur->data!=element)
 parent = cur;
 if(cur->data<element)
 {
-cur = cur->right;
+cur = cur->right; 
 }
 else if(cur->data>element)
 {
