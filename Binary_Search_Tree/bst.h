@@ -1,7 +1,7 @@
 #ifndef _INCLUDED_BST_
 #define _INCLUDED_BST_
 #include<stdint.h>
-
+ 
 #include<assert.h>
 
 typedef struct _tree_ Tree;
