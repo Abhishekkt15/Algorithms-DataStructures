@@ -5,7 +5,7 @@
 #include "bst.h" 
 
 
-int main()
+int main() 
 {
 Tree bst = tree_new();
 Tree *tree = &bst;
