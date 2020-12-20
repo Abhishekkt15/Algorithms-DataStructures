@@ -4,7 +4,7 @@
 
 #ifndef DATA_TYPE
 #define DATA_TYPE void*
-#endif
+#endif 
 
 #define MAX_DEPTH 32
 #include<stddef.h>
